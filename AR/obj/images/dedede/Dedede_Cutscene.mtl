@@ -1,0 +1,49 @@
+newmtl yellow
+Kd 1.000000 1.000000 0.203922
+illum 1
+map_Kd yellow.PNG
+
+newmtl red
+Kd 0.941176 0.094118 0.000000
+illum 1
+map_Kd red.PNG
+
+newmtl blue
+Kd 0.031373 0.627451 0.972549
+illum 1
+map_Kd blue.PNG
+
+newmtl grey
+Kd 0.501961 0.501961 0.501961
+illum 1
+map_Kd grey.PNG
+
+newmtl white
+Kd 1.000000 1.000000 1.000000
+illum 1
+map_Kd white.PNG
+
+newmtl NemuMat30
+Kd 0.871094 0.871094 0.871094
+illum 1
+map_Kd 116FC18D_c.png
+
+newmtl NemuMat28
+Kd 0.699219 0.699219 0.699219
+illum 1
+map_Kd 71C43487_c.png
+
+newmtl NemuMat29
+Kd 0.996094 0.996094 0.996094
+illum 1
+map_Kd 505F948C_c.png
+
+newmtl NemuMat22
+Kd 0.699219 0.699219 0.699219
+illum 1
+map_Kd 7F9788D0_c.png
+
+newmtl NemuMat21
+Kd 0.699219 0.699219 0.699219
+illum 1
+map_Kd 1258D41D_c.png

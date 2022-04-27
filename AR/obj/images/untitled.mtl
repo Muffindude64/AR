@@ -1,0 +1,122 @@
+# Blender MTL File: 'None'
+# Material Count: 11
+
+newmtl Material
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl NemuMat21
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.699219 0.699219 0.699219
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\1258D41D_c.png
+
+newmtl NemuMat22
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.699219 0.699219 0.699219
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\7F9788D0_c.png
+
+newmtl NemuMat28
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.699219 0.699219 0.699219
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\71C43487_c.png
+
+newmtl NemuMat29
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.996094 0.996094 0.996094
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\505F948C_c.png
+
+newmtl NemuMat30
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.871094 0.871094 0.871094
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\116FC18D_c.png
+
+newmtl blue
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.031373 0.627451 0.972549
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\blue.PNG
+
+newmtl grey
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.501961 0.501961 0.501961
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\grey.PNG
+
+newmtl red
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.941176 0.094118 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\red.PNG
+
+newmtl white
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\white.PNG
+
+newmtl yellow
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 0.203922
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\muffi\\Documents\\3d-models\\King Dedede\\yellow.PNG
